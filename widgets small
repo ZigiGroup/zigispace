@@ -1,0 +1,63 @@
+<div style="text-align: center;"><a href="https://www.zigispace.com" target="_blank"><img border="0" src="https://blogger.googleusercontent.com/img/a/AVvXsEiA_KCXCdaeMSFIWDc6NWHVU49829WNnMrW97LXfSMMa0fIWuI7iEc3QWMddlpouRBcTRy9w23fMJ5NyR9AAgcYxq7z_sHnHLTF00u_i6-M1_l_5H8hwqXbHAW32ApwW3IBpc6xB3iV76TzIP0oL5veaWr7NKrC3hzeDziWr4yFnp94lEofPZzv8XofxQ=w123-h49" /></a></div><div style="text-align: center;"><br /></div><div style="text-align: center;"><!--TradingView Widget BEGIN-->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com" rel="noopener" target="_blank"><span class="blue-text">Stocks</span></a> by ZigiSpace</div><div class="tradingview-widget-copyright"><br /></div><div class="separator" style="clear: both; text-align: center;"><a href="https://www.zigispace.com/" imageanchor="1" style="margin-left: 1em; margin-right: 1em;" target="_blank"><img border="0" data-original-height="140" data-original-width="371" height="59" src="https://blogger.googleusercontent.com/img/a/AVvXsEiYXy4spmkU1iJSD8w-dSrsmXNBgCX8Y6H4Y5xJhyZUTsWF7gp9v37jspQw9usxXoRJ7K65lyfspKWHRTa013w5vF7HVjGGQUSvWAOVJeDeI_ltBdoxGbCxMhHj60krhSLImsK3JPYb43CbGUze7Mi-PCSg8ZVywOiwqBf_x432ABhMaihQu3EZSLB08w=w155-h59" width="155" /></a></div><div class="separator" style="clear: both; text-align: center;"><br /></div>
+  <script async="" src="https://s3.tradingview.com/external-embedding/embed-widget-market-overview.js" type="text/javascript">
+  {
+  "colorTheme": "light",
+  "dateRange": "12M",
+  "showChart": false,
+  "locale": "en",
+  "largeChartUrl": "",
+  "isTransparent": true,
+  "showSymbolLogo": true,
+  "showFloatingTooltip": true,
+  "width": "300",
+  "height": "380",
+  "tabs": [
+    {
+      "title": "Stocks",
+      "symbols": [
+        {
+          "s": "NYSE:BA",
+          "d": "Boeing Company"
+        },
+        {
+          "s": "NYSE:LMT",
+          "d": "Lockheed Martin"
+        },
+        {
+          "s": "NYSE:RTX",
+          "d": "Raytheon Tech."
+        },
+        {
+          "s": "NYSE:MAXR",
+          "d": "Maxar Tech."
+        },
+        {
+          "s": "NYSE:SPCE",
+          "d": "Virgin Galactic"
+        },
+        {
+          "s": "OTC:ATROB",
+          "d": "Astroponics Corp."
+        },
+        {
+          "s": "NYSE:AJRD",
+          "d": "Aerojet"
+        },
+        {
+          "s": "NASDAQ:AMZN",
+          "d": "Blue Origin"
+        },
+        {
+          "s": "NASDAQ:TSLA",
+          "d": "SpaceX"
+        }
+      ]
+    }
+  ]
+}
+  </script>
+</div>
+<!--TradingView Widget END--></div>
